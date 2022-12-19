@@ -64,6 +64,16 @@ body {
     border: solid #2B418F;
 }
 
+footer {
+    width: 90%;
+    margin: auto;
+    margin-top: 50px;
+    font-weight: 300;
+    font-style: italic;
+    text-align: center;
+    color: #2B418F;
+}
+
 @media (min-width: 1024px) {
     #container div{
         width: 40vw;
