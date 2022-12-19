@@ -38,7 +38,7 @@ body {
 }
 
 #container h1 {
-    text-align: justify;
+    text-align: center;
     font-size: 1.5em;
     padding-bottom: 30px;
     color: #2B418F;
@@ -64,7 +64,7 @@ body {
     border: solid #2B418F;
 }
 
-footer {
+footer p{
     width: 90%;
     margin: auto;
     margin-top: 50px;
