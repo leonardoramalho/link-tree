@@ -37,14 +37,14 @@ body {
 }
 
 #container h1 {
-    font-size: 1.3em;
+    font-size: 1.1em;
     padding-bottom: 30px;
-    color: rgb(12, 21, 39);
+    color: rgb(7, 12, 24);
     font-weight: normal;
 }
 
 #container a {
-    color: white;
+    color: #ffffff;
     background-color: #2B418F;
     box-shadow: 2px 3px 5px rgba(0, 0, 0, 0.363);
     height: 50px;
@@ -53,14 +53,14 @@ body {
     text-decoration: none;
     font-size: 1.1em;
     border-radius: 7px;
-    border-bottom: 5px solid #182246;
+    border-bottom: 5px solid #2b386b;
 }
 
 #container a:hover {
     background-color: #344b9e;
     color: #ffffff;
     transition: 0.2s ease;
-    border-bottom: 1px solid #182246;
+    border-bottom: 1px solid #2b386b;
 }
 
 footer p{
